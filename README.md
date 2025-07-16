@@ -1,11 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rishiket Pagi</h1>
 <h3 align="center">A passionate developer and lifelong learner from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F763&width=435&lines=Self-taught+programmer;Loves+to+build+cool+stuff;Learning+something+new+every+day!" alt="Typing SVG" />
-</p>
-
----
 
 ### 🌟 About Me
 
@@ -38,19 +33,6 @@
 
 ---
 
-### 🔥 Top Projects
-
-- 📊 [HTML Portfolio Website](https://github.com/rishiketpagi/portfolio-site) – Personal portfolio site with responsive layout.
-- 🧮 [Assembly Rectangle Area Calculator](https://github.com/rishiketpagi/area-calc-asm) – NASM x86 geometry calculator.
-
----
-
-### 💡 Quote of the Day
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-
----
-
 ### 📊 Visitor Count
 
 <p align="center">
@@ -61,8 +43,7 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:rahmish@gmail.com)  
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:rishiketpagi10@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/rishiketpagi)
 
 ---
