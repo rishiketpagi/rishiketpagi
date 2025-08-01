@@ -1,16 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rishiket Pagi</h1>
-<h3 align="center">A passionate developer and lifelong learner from India 🇮🇳</h3>
 
 ---
 
-### 🌟 About Me
-
-- 🔭 I’m currently working on **a weather app, automation tools, and web projects**
-- 🌱 I’m learning **Full Stack Web Development, Git, and Assembly (NASM x86)**
-- 💬 Ask me about **C++, JavaScript, Shell scripting, APIs, or GitHub**
-- 📫 Reach me: [rishiketpagi10@gmail.com](mailto:rishiketpagi10@gmail.com)
-
----
 
 ### 🛠️ Tech Stack & Tools
 
