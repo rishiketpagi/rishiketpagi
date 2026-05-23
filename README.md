@@ -23,9 +23,3 @@ B.E. Computer Engineering @ Goa College of Engineering (Third Year)
 
 > focus
 Full Stack Development ✕ AI Applications
-
-> current_goal
-Securing a Full Stack Engineering Internship
-
-> metrics
-100+ LeetCode problems solved & counting
