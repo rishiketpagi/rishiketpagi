@@ -40,8 +40,8 @@ I am a **Computer Engineering student** (2023–2027) at **Goa College of Engine
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.am/api?username=rishiketpagi&show_icons=true&theme=tokyonight&count_private=true" alt="Rishiket's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.am/api/top-langs/?username=rishiketpagi&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishiketpagi&show_icons=true&theme=tokyonight&count_private=true" alt="Rishiket's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiketpagi&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
