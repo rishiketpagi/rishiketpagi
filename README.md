@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:a855f7&height=250&section=header&text=Rishiket%20Pagi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
-ving&color=0:0f172a,50:6366f1,100:a855f7&height=260&section=header&text=Rishiket%20Pagi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-# Hi there, I'm Rishiket Pagi 👋 
 
 <p align="left">
   <a href="https://linkedin.com/in/rishiketpagi" target="_blank">
@@ -11,6 +8,9 @@ ving&color=0:0f172a,50:6366f1,100:a855f7&height=260&section=header&text=Rishiket
   </a>
   <a href="mailto:pagirishiket@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/u/rishiketpagi" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
