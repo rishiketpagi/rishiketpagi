@@ -1,12 +1,14 @@
 <div align="center">
-  <!-- Dynamic Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,50:6366f1,100:a855f7&height=220&section=header&text=Rishiket%20Pagi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <!-- Dynamic Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,30:3b82f6,70:8b5cf6,100:ec4899&height=230&section=header&text=Rishiket%20Pagi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <h3>🎓 Computer Engineering Student @ Goa College of Engineering (2023–2027)</h3>
-  <p><i>Building scalable web & mobile applications | Algorithmic Problem Solving | AI/ML Integration</i></p>
+  <p align="center">
+    <b>🎓 Computer Engineering Student @ Goa College of Engineering (2023–2027)</b><br>
+    <i>Full-Stack Web & Mobile Developer | Algorithmic Problem Solver | AI/ML Explorer</i>
+  </p>
 
-  <!-- Social Badges -->
-  <p>
+  <!-- High-Contrast Social Badges -->
+  <p align="center">
     <a href="https://linkedin.com/in/rishiketpagi" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -19,6 +21,7 @@
   </p>
 </div>
 
+<br />
 ---
 
 ### 🚀 About Me
